@@ -1,0 +1,48 @@
+.navbar-brand{
+	font-weight: bold;
+	font-family: 'Kalam', cursive;
+	padding-left: 10px;
+	padding-right: 20px;
+}
+
+.nav-item{
+	padding: 15px;
+	font-weight: bold;
+}
+
+body{
+	background-color: pink;
+	/*background-image: url("homeimg.jpg"); */
+	/*background-image: url(images/home1.jpg);*/
+    /*background-size: cover;*/
+}
+
+.dropdown-menu{
+	background-color: pink;
+}
+.dropdown-divider{
+	color: black;
+	padding-bottom: 5px;
+	margin: 10px;
+	border-top: 5px solid black;
+}
+
+
+.jumbotron{
+	background-color: pink;
+	padding-top: 40px;
+	padding-bottom: 0px;
+
+}
+
+p{
+	font-family: 'East Sea Dokdo', cursive;
+	/*font-family: 'Kalam', cursive;*/
+}
+
+footer{
+	margin-top: 30px;
+}
+.mahdi{
+	font-weight: bold;
+}

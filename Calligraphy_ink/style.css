@@ -1,0 +1,233 @@
+
+
+
+
+.navbar-brand{
+	font-weight: bold;
+	font-family: 'Kalam', cursive;
+	padding-left: 10px;
+	padding-right: 20px;
+	border: 1px solid;
+  /*padding: 10px;*/
+  box-shadow: 5px 10px 20px pink;
+  border-radius: 6%
+}
+
+.nav-item{
+	padding: 15px;
+	font-weight: bold;
+}
+
+body{
+	background-color: pink;
+	/*background-image: url("homeimg.jpg"); */
+	/*background-image: url(images/home1.jpg);*/
+    /*background-size: cover;*/
+}
+
+.container-xxl{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+
+h3{
+	/*font-weight: bold;*/
+	font-family: 'Kalam', cursive;
+	color: ;
+	font-size: 200px;
+}
+
+h2{
+	color: #ff3355;
+	font-family: 'Kalam', cursive;
+}
+
+.magic{
+	font-family: 'East Sea Dokdo', cursive;
+	font-family: 'Kalam', cursive;
+	
+	#28caeb
+	#eb34ae
+}
+
+.lead{
+	color: #eb34ae;
+}
+
+              /*See all works button css*/
+.btn{
+	color: black;
+	background-color: #FFB6C1;
+}
+
+.popular{
+	text-align: center;
+}
+.image{
+	display: inline-block;
+	align-items: center;
+	
+}
+.dropdown-menu{
+	background-color: pink;
+}
+.dropdown-divider{
+	color: black;
+	padding-bottom: 5px;
+	margin: 10px;
+	border-top: 5px solid black;
+}
+
+hr{
+	border-color: black;
+	border-width: 4px;
+	max-width: 50px;
+}
+
+.img-responsive{
+	margin: 8px;
+	transition: 0.5s ease;
+}	
+
+.img-responsive:hover{
+	box-shadow: 4px 5px 5px 4px #888888;
+	border-radius: 10px;
+}
+
+.heading{
+	text-align: center;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 35px;
+   
+}
+
+.btn-info{
+	transition: 0.5s ease-in-out;
+	letter-spacing: 2px;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+h2.modal-header{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+h2{
+	text-align: center;
+}
+.modal-header .close {
+    padding: 0px;
+    margin: 0px;
+}
+
+.profile-img {
+	padding-top: 10px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height: 360px;
+  	width: 360px;
+  	border-radius: 50%;
+  	/*filter: grayscale(100%);*/
+  	cursor: pointer;
+  	transition: 400ms;
+}
+
+.container-fluid{
+	padding-top: 50px;
+}
+
+.lead{
+	display: flex;
+	justify-content: center;
+	color: red;
+}
+		
+/* Style all font awesome icons */
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+.social-icon{
+	display: flex;
+	justify-content: center;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+			/*youtube*/
+
+
+.iframe-container{
+	display: flex;
+	justify-content: center;
+}
+
+footer{
+	margin-top: 30px;
+}
+.mahdi{
+	font-weight: bold;
+}
+
+.connect{
+	
+	text-align: center;
+	padding-top: 60px;
+
+}
+
+.face{
+	padding: 10px;
+}
+.insta{
+	padding-bottom:  10px;
+}
+.inbox{
+	padding-bottom: 10px;
+}

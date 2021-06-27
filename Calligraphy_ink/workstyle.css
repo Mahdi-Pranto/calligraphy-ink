@@ -1,0 +1,126 @@
+body{
+	background-color: #ffccd5;
+}
+
+.magic{
+	font-family: 'East Sea Dokdo', cursive;
+	font-family: 'Kalam', cursive;
+
+}
+
+
+.gallary{
+	text-align: center;
+}
+
+hr{
+	border-color: black;
+	border-width: 4px;
+	max-width: 50px;
+}
+
+.img-responsive{
+	margin: 8px;
+	transition: 0.5s ease;
+}	
+
+.img-responsive:hover{
+	box-shadow: 4px 5px 5px 4px #888888;
+	border-radius: 10px;
+}
+
+.heading{
+	text-align: center;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 35px;
+   
+}
+
+.btn-info{
+	transition: 0.5s ease-in-out;
+	letter-spacing: 2px;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 15px;
+}
+p{
+	font-family: monospace;
+	font-size: 16px;
+	text-align: center;
+}
+
+h2{
+	color: #ff3355;
+}
+
+.btn-home{
+	background-color: #ff8095;
+	color: black;
+}
+.lead{
+	display: flex;
+	justify-content: flex-start;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+.social-icon{
+	display: flex;
+	justify-content: center;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+footer{
+	margin-top: 30px;
+}
+
+.mahdi{
+	font-weight: bold;
+}
+
+
+http://eepurl.com/hoq8Dr
